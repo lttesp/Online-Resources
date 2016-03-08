@@ -14,3 +14,10 @@ Contents:
 5. [Ethical Hacking Academy](https://github.com/lttesp/Online-Resources/blob/master/learn.ethical.hacking.md)    
 6. [Info Security Resources](https://github.com/lttesp/Online-Resources/blob/master/security.resources.md)    
 7. [Designer's Portfolio Sites](https://github.com/lttesp/Online-Resources/blob/master/designers%20home.md)
+
+##Note:
+These are some **resources that I use it in my life**.                            
+Use it only for **Educational Purpose**.                                   
+There is **no other intention** behind these.                                                                
+**_Updates and Additions are always welcome._**                                
+**``Find it useful, share among your circle.``**
