@@ -13,3 +13,4 @@ Contents:
 4. [Online Open-Source Course wares ](https://github.com/lttesp/Online-Resources/blob/master/online.free.coursewares.md)    
 5. [Ethical Hacking Academy](https://github.com/lttesp/Online-Resources/blob/master/learn.ethical.hacking.md)    
 6. [Info Security Resources](https://github.com/lttesp/Online-Resources/blob/master/security.resources.md)    
+7. [Designer's Portfolio Sites](https://github.com/lttesp/Online-Resources/blob/master/designers%20home.md)
